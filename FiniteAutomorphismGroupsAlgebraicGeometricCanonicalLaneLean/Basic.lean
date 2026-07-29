@@ -1,0 +1,2 @@
+import FiniteAutomorphismGroupsAlgebraicGeometricCanonicalLaneLean.GateLemmas
+import FiniteAutomorphismGroupsAlgebraicGeometricCanonicalLaneLean.FinalTheorem
